@@ -1,0 +1,12 @@
+; Dados fictícios para experimentar o frontend Gum.
+2026-10-01 Saldo inicial
+    assets:bank:checking  BRL 1000.00
+    equity:opening
+
+2026-10-02 Mercado
+    expenses:food  BRL 85.40
+    assets:bank:checking
+
+2026-10-05 Transporte
+    expenses:transport  BRL 24.00
+    assets:bank:checking
